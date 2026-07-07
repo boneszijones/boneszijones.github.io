@@ -6,9 +6,8 @@ Welcome to my portfolio! I'm a computer science student specializing in systems 
 ## 💻 About Me
 I'm currently pursuing my degree in Computer Science, focusing on how software interacts closely with hardware and data structures. I love optimization, low-level architecture, and building tools that make complex data actionable.
 
-* 📍 Location: [Your City/University]
-* ✉️ Contact: [your.email@email.com]
-* 🐙 GitHub: [github.com/yourusername]
+* 📍 Location: Purdue University, West Lafayette
+* ✉️ Contact: austinjones1906@gmail.com
 
 ---
 
@@ -24,10 +23,7 @@ I'm currently pursuing my degree in Computer Science, focusing on how software i
 
 ## 🚀 Featured Projects
 
-### 1. RoboRoute Engine
-* **Tech Stack:** C++, Dijkstra's Algorithm, Custom Heap Structures
-* **Description:** Developed a highly constrained shortest-path routing engine capable of calculating optimal trajectories based on dynamic cost metrics. 
-* [[View Code on GitHub](https://github.com/yourusername/roboroute)]
+
 
 ### 2. Predictive Analytics Model
 * **Tech Stack:** Python, XGBoost, Transformer Embeddings
